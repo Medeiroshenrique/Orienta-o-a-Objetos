@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\bin\Debug\net6.0\Hospital.exe
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\bin\Debug\net6.0\Hospital.deps.json
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\bin\Debug\net6.0\Hospital.runtimeconfig.json
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\bin\Debug\net6.0\Hospital.dll
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\bin\Debug\net6.0\Hospital.pdb
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.dll
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\refint\Hospital.dll
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.pdb
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\Hospital.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Orientacao  a objetos\OO\.vs\Hospital\Hospital\obj\Debug\net6.0\ref\Hospital.dll
